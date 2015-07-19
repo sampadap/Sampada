@@ -1,0 +1,35 @@
+body{
+	margin:5%;
+	
+}
+.check_box{
+	font-size:4em;
+	display:inline;
+	
+}
+#myTable{
+	
+	
+	display:none;
+	
+}
+
+.Run_btn{
+	margin:0 auto;
+	display:block;
+	margin-top:5%;
+	width: 16%;
+	
+	font-size:larger;
+	
+	
+	
+}
+#TF1-optin1, #TF1-optin2, #TF1-optin3, #TF2-optin1, #TF2-optin2 {
+	display:none;
+}
+#Test_Fixture1, #Test_Fixture2{
+	margin-left:23%;
+	margin-bottom:1%;
+
+}
