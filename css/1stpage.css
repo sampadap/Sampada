@@ -1,0 +1,115 @@
+.test{
+	margin-left: 2%;
+}
+.some{
+	margin-left: 3.5%;
+	padding-top:2%;
+	padding-bottom: 2%;
+	
+}
+
+.sss{
+	background:   10px rgb(181, 229, 239);
+    border: 1px solid rgb(119, 186, 206);
+    border-radius: 5px;
+    color: rgb(8, 43, 51);
+    display: block;
+    font-size: 13px;
+    margin: 20px 3% 0 20px;
+   height:80px;
+    font-weight:bolder;
+    width: 99.5%;
+}
+
+
+
+ /* performance*/
+
+.web{
+     margin-bottom:2%;
+     }
+ .mm{
+ 	margin-bottom:2%
+ }
+.sol{
+     	padding-top: 10px;
+     	padding-bottom: 20px;
+     	font-size:12px;
+     	font-family: "Helvetica Neue",Helvetica,Arial,Verdana,sans-serif;
+     }
+.kk{
+	padding-bottom: 2%;
+}
+
+
+#btn{
+
+	background-color: white;
+	margin-bottom:1%;
+	color:black;
+	padding:5px 40px 5px 40px;
+}
+.para{
+	margin-top: 5px;
+	font-size: 15px;
+}
+#m2{
+	border:1px solid #A9A9A9;
+	background:#F0FFFF;margin-left: 5%;margin-top:2%;border-top-left-radius: 5px;
+    border-top-right-radius: 5px;  
+    height: 38px;
+    width: 80%;
+    display: block;
+}
+.width_full {
+width: 80%;
+
+}
+
+.brd{
+	border-bottom: 1px solid #A9A9A9;
+	border-width:100%;
+	width:101.7%;
+	
+	
+}
+.s{
+	color: grey;
+	margin-left:7%;
+}
+.nxt{
+	color: black;
+	height: 15%;
+	width: 12%;
+	margin-top:1.5%;
+	margin-left: 22%;
+	text-decoration: none;
+	
+}
+
+#boxe{
+	border:1px solid #A9A9A9;
+	width:100%;
+	border-radius: 5px;
+	margin:-372px 5% 0% 15px; 
+	padding-left:0px;
+	padding-right:0px;
+}
+#word{
+	font-weight:normal;
+	display:none;
+}
+.check1{
+	margin-left:10px;
+}
+#title1{
+	padding-left:2%;
+	padding-bottom: 8px;
+	font-size: 15px;
+font-weight:bold;
+ background:url(../images/secondary_bar.png) repeat-x scroll 0% 0% #F1F1F4;
+ padding-top: 1%;
+ margin: 0!important;
+ border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+}

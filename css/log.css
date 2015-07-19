@@ -1,0 +1,116 @@
+body{
+	
+}
+.r1{
+	
+	
+	margin-bottom:8%;
+	
+}
+.hd2{
+	margin:0px;
+	display:block;
+	font-size:22px;
+	text-align: center;
+	color:#fff;
+	font-weight:normal;
+	line-height:55px;
+	
+	text-indent: 23%;
+	
+	
+}
+.hd1{
+margin: 0px;
+font-size: 22px;
+display: block;
+font-weight: normal;
+line-height: 55px;
+color: #FFF;
+text-indent: 15%;
+}
+
+.sub{	 
+	 float:right;
+	padding-right:25px;
+	padding-left:25px;
+	padding-top:0px;
+	padding-bottom:0px;	
+	margin:5%; 
+	border-radius: 47px;
+	font-size:1em;
+	background-color:#1E1E1E;
+	color:white;
+}
+
+
+.user{
+	
+margin-bottom:1px;
+margin-top:3%;
+
+}
+
+.PW, .user{
+	
+padding-right:7%;
+padding-top:1%;
+padding-bottom:1%;
+font-weight:lighter;
+font-size: 1em;
+border:white;
+font-family:sans-serif;
+padding-left:25px;
+
+}
+.blk{
+	
+width:100%
+margin-right:auto;
+margin-left:auto;
+text-align:center;
+
+}
+
+}
+.RM{
+	margin-left:5%;
+}
+.raghuu{
+	
+ font-size: 18px;
+  line-height: 1.33;
+  border-radius: 6px;
+  background-color: #428bca;
+  color:#fff;
+  background-color: #177bbb;
+  margin-top:2%; 
+  text-align:center; 
+  font-family:sans-serif Helvetica Arial
+  
+  
+}
+#bttn{
+	 width:13.25em;
+	 border: 1px solid transparent;
+	 border-radius: 2px;
+	 padding:10px;
+}
+.mAqua{
+	float: none;
+text-align: center;
+font-size: 24px;
+font-weight: 700;
+height: auto;
+line-height: 50px;
+padding: 10px 15px;
+color: #2A6496;
+margin-top:2%;
+}
+
+.F_P{
+	margin-top:2%;
+}
+.S-I{
+	padding:15px;
+}
